@@ -6,7 +6,7 @@ A collection of Claude Code skills by baov. Each skill is a separate plugin, so 
 
 | Skill | What it does |
 |---|---|
-| [ikigai-business-ia](plugins/ikigai-business-ia/skills/ikigai-business-ia/SKILL.md) | Generates AI business ideas from your Ikigai (what you love, what you're good at, what the world needs, what you can be paid for), one multiple-choice question at a time. It checks the market on the web with sources, scores a short-list of three and runs it through a Blue Ocean ERRC grid. |
+| [ikig-ai-business](plugins/ikig-ai-business/skills/ikig-ai-business/SKILL.md) | Generates AI business ideas from your Ikigai (what you love, what you're good at, what the world needs, what you can be paid for), one multiple-choice question at a time. It checks the market on the web with sources, scores a short-list of three and runs it through a Blue Ocean ERRC grid. |
 
 ## Install
 
@@ -14,7 +14,7 @@ A collection of Claude Code skills by baov. Each skill is a separate plugin, so 
 
 ```
 /plugin marketplace add baov/skills
-/plugin install ikigai-business-ia@baov-skills
+/plugin install ikig-ai-business@baov-skills
 ```
 
 ### Manual skill install
@@ -22,7 +22,7 @@ A collection of Claude Code skills by baov. Each skill is a separate plugin, so 
 Copy a skill folder into your personal skills (`~/.claude/skills/`) or your project's (`.claude/skills/`):
 
 ```
-cp -r plugins/ikigai-business-ia/skills/ikigai-business-ia ~/.claude/skills/
+cp -r plugins/ikig-ai-business/skills/ikig-ai-business ~/.claude/skills/
 ```
 
 ## See also

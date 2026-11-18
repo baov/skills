@@ -1,5 +1,5 @@
 ---
-name: ikigai-business-ia
+name: ikig-ai-business
 description: Generates AI business ideas from the user's Ikigai (what they love / what they're good at / what the world needs / what they can be paid for), through multiple-choice questions one at a time, checks the market on the web, scores the ideas and runs the short-list through Blue Ocean. Use when the user is looking for an AI business idea, an AI SaaS, a profitable side project, or says "find me a business idea", "my ikigai", "what should I launch with AI".
 ---
 
