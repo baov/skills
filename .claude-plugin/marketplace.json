@@ -1,0 +1,12 @@
+{
+  "name": "baov-skills",
+  "description": "baov's collection of Claude Code skills.",
+  "owner": { "name": "baov" },
+  "plugins": [
+    {
+      "name": "ikigai-business-ia",
+      "source": "./plugins/ikigai-business-ia",
+      "description": "Génère des idées de business IA à partir de ton Ikigai, en QCM une question à la fois, vérifie le marché sur le web, note et passe la short-list en Blue Ocean."
+    }
+  ]
+}

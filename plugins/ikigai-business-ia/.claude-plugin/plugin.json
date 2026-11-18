@@ -1,0 +1,8 @@
+{
+  "name": "ikigai-business-ia",
+  "description": "Génère des idées de business IA à partir de ton Ikigai, en QCM, avec vérification marché sourcée, notation et grille Blue Ocean.",
+  "version": "0.1.0",
+  "author": { "name": "baov" },
+  "repository": "https://github.com/baov/skills",
+  "license": "MIT"
+}
