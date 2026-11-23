@@ -18,7 +18,7 @@
     {
       "name": "mcq",
       "source": "./plugins/mcq",
-      "description": "Clarifies a request with you through multiple-choice questions (MCQ), one short round at a time, before doing the work."
+      "description": "Clarifies a request with you through multiple-choice questions (MCQ), one at a time, before doing the work."
     }
   ]
 }

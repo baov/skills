@@ -1,6 +1,6 @@
 ---
 name: mcq
-description: Clarify with the user by asking multiple-choice questions (MCQ) before doing the work. Use when the user says "mcq", "qcm", "clarify with me", "ask me questions first", "MCQ mode", or when a request is ambiguous enough that guessing would change the result.
+description: Clarify with the user by asking multiple-choice questions (MCQ), one at a time, before doing the work. Use when the user says "mcq", "qcm", "clarify with me", "ask me questions first", "MCQ mode", or when a request is ambiguous enough that guessing would change the result.
 ---
 
 # MCQ: clarify with multiple-choice questions
@@ -9,17 +9,17 @@ Before doing the work, clarify it with me by asking me questions, multiple-choic
 
 ## How to ask
 
+- **One question at a time.** Wait for my answer before asking the next one: my answer can change what you ask next.
+- **Around ten questions at most** in total. Usually fewer: stop as soon as you have enough.
 - Use the host's multiple-choice question tool if there is one. Otherwise, write the question as text with numbered options, then stop and wait for my answer.
-- One round at a time, 3 questions maximum per round. My answers shape the next round.
 - Each question has 2 to 4 short, mutually exclusive options, plus an "Other / let me explain" option.
 - Recommend an option when you have a view, and say why in one line.
 - Ask only what I alone can answer. What you can find in the files, the code or the context, look up yourself.
 - Ask in the language I write in.
 
-## The shape of a round
+## Before the first question
 
-1. **What I understood**: a short bulleted summary, so I can answer knowingly.
-2. **What I'm unsure about**: the 1 to 3 questions.
+Give a short bulleted summary of what you understood, so I can answer knowingly.
 
 ## Special cases
 
