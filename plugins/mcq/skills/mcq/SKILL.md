@@ -1,9 +1,9 @@
 ---
-name: qcm
-description: Clarify with the user by asking multiple-choice questions (QCM) before doing the work. Use when the user says "qcm", "clarify with me", "ask me questions first", "MCQ mode", or when a request is ambiguous enough that guessing would change the result.
+name: mcq
+description: Clarify with the user by asking multiple-choice questions (MCQ) before doing the work. Use when the user says "mcq", "qcm", "clarify with me", "ask me questions first", "MCQ mode", or when a request is ambiguous enough that guessing would change the result.
 ---
 
-# QCM: clarify with multiple-choice questions
+# MCQ: clarify with multiple-choice questions
 
 Before doing the work, clarify it with me by asking me questions, multiple-choice style.
 

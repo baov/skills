@@ -8,7 +8,7 @@ A collection of Claude Code skills by baov. Each skill is a separate plugin, so 
 |---|---|
 | [ikig-ai-business](plugins/ikig-ai-business/skills/ikig-ai-business/SKILL.md) | Generates AI business ideas from your Ikigai (what you love, what you're good at, what the world needs, what you can be paid for), one multiple-choice question at a time. It checks the market on the web with sources, scores a short-list of three and runs it through a Blue Ocean ERRC grid. |
 | [ruthless-mentor](plugins/ruthless-mentor/skills/ruthless-mentor/SKILL.md) | A ruthless mentor that sugarcoats nothing. It challenges your assumptions, points out your blind spots and tells you bluntly, and exactly why, when an idea or reasoning is weak, until it holds up. |
-| [qcm](plugins/qcm/skills/qcm/SKILL.md) | Clarifies a request with you through multiple-choice questions (QCM, French for MCQ) before doing the work: one short round at a time, with a recommended option and an "Other" escape hatch. |
+| [mcq](plugins/mcq/skills/mcq/SKILL.md) | Clarifies a request with you through multiple-choice questions (MCQ) before doing the work: one short round at a time, with a recommended option and an "Other" escape hatch. |
 
 ## Install
 
@@ -18,7 +18,7 @@ A collection of Claude Code skills by baov. Each skill is a separate plugin, so 
 /plugin marketplace add baov/skills
 /plugin install ikig-ai-business@baov-skills
 /plugin install ruthless-mentor@baov-skills
-/plugin install qcm@baov-skills
+/plugin install mcq@baov-skills
 ```
 
 ### Manual skill install
