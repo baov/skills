@@ -14,6 +14,11 @@
       "name": "ruthless-mentor",
       "source": "./plugins/ruthless-mentor",
       "description": "A ruthless mentor that spares nothing: challenges your assumptions, points out your blind spots and tells you bluntly, and exactly why, when an idea or reasoning is weak."
+    },
+    {
+      "name": "qcm",
+      "source": "./plugins/qcm",
+      "description": "Clarifies a request with you through multiple-choice questions (QCM), one short round at a time, before doing the work."
     }
   ]
 }
