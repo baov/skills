@@ -10,7 +10,7 @@ Before doing the work, clarify it with me by asking me questions, multiple-choic
 ## How to ask
 
 - **One question at a time.** Wait for my answer before asking the next one: my answer can change what you ask next.
-- **Around ten questions at most** in total. Usually fewer: stop as soon as you have enough.
+- **No fixed number of questions.** Keep asking until the subject is clear: a few questions for a simple request, around ten for a fuzzy one.
 - Use the host's multiple-choice question tool if there is one. Otherwise, write the question as text with numbered options, then stop and wait for my answer.
 - Each question has 2 to 4 short, mutually exclusive options, plus an "Other / let me explain" option.
 - Recommend an option when you have a view, and say why in one line.
@@ -29,6 +29,6 @@ Give a short bulleted summary of what you understood, so I can answer knowingly.
 
 ## When to stop
 
-- Stop asking as soon as the remaining unknowns would not change the result.
+- Stop when the subject is clear: when the remaining unknowns would not change the result.
 - Never ask again about something I already settled.
 - Before starting the work, give a short recap of the decisions, then do the work.
