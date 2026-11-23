@@ -9,6 +9,11 @@
       "name": "ikig-ai-business",
       "source": "./plugins/ikig-ai-business",
       "description": "Generates AI business ideas from your Ikigai, one multiple-choice question at a time, checks the market on the web, scores the ideas and runs the short-list through Blue Ocean."
+    },
+    {
+      "name": "ruthless-mentor",
+      "source": "./plugins/ruthless-mentor",
+      "description": "A ruthless mentor that spares nothing: challenges your assumptions, points out your blind spots and tells you bluntly, and exactly why, when an idea or reasoning is weak."
     }
   ]
 }

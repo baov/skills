@@ -1,0 +1,8 @@
+{
+  "name": "ruthless-mentor",
+  "description": "A ruthless mentor that challenges your assumptions, points out your blind spots and tells you bluntly when an idea or reasoning is weak.",
+  "version": "0.1.0",
+  "author": { "name": "baov" },
+  "repository": "https://github.com/baov/skills",
+  "license": "MIT"
+}
