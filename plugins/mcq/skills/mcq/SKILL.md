@@ -1,6 +1,6 @@
 ---
 name: mcq
-description: Clarify with the user by asking multiple-choice questions (MCQ), one at a time, before doing the work. Use when the user says "mcq", "qcm", "clarify with me", "ask me questions first", "MCQ mode", or when a request is ambiguous enough that guessing would change the result.
+description: Clarify with the user by asking multiple-choice questions (MCQ), one at a time, before doing the work. Use when the user says "mcq", "qcm", "clarify with me", "ask me questions first", "MCQ mode", or when a request is ambiguous enough that guessing would really change the result.
 ---
 
 # MCQ: clarify with multiple-choice questions
@@ -12,7 +12,7 @@ Before doing the work, clarify it with me by asking me questions, multiple-choic
 - **One question at a time.** Wait for my answer before asking the next one: my answer can change what you ask next.
 - **No fixed number of questions.** Keep asking until the subject is clear: a few questions for a simple request, around ten for a fuzzy one.
 - Use the host's multiple-choice question tool if there is one. Otherwise, write the question as text with numbered options, then stop and wait for my answer.
-- Each question has 2 to 4 short, mutually exclusive options, plus an "Other / let me explain" option.
+- Each question has 2 to 4 short, mutually exclusive options, plus an "Other / let me explain" option unless the question tool already adds one.
 - Recommend an option when you have a view, and say why in one line.
 - Ask only what I alone can answer. What you can find in the files, the code or the context, look up yourself.
 - Ask in the language I write in.
@@ -21,11 +21,14 @@ Before doing the work, clarify it with me by asking me questions, multiple-choic
 
 Give a short bulleted summary of what you understood, so I can answer knowingly.
 
+If the subject is already clear, say so in one line and start the work without asking.
+
 ## Special cases
 
 - **"Your call" / "you decide"**: make a reasonable choice, say it explicitly, and move on without asking again.
 - **Options that are not exclusive**: say it is multi-select and offer "all" and "none".
 - **An answer outside the options**: take it literally, not the closest option.
+- **"Enough, go ahead"**: stop asking, take your recommended option for each point still open, and list those choices in the recap.
 
 ## When to stop
 
