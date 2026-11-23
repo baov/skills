@@ -19,6 +19,11 @@
       "name": "mcq",
       "source": "./plugins/mcq",
       "description": "Clarifies a request with you through multiple-choice questions (MCQ), one at a time, before doing the work."
+    },
+    {
+      "name": "critique-loop",
+      "source": "./plugins/critique-loop",
+      "description": "Challenges and critiques a deliverable in an autonomous critique-and-fix loop with de Bono's thinking hats, 10 iterations by default (configurable), stopping early when nothing important is left."
     }
   ]
 }

@@ -1,0 +1,8 @@
+{
+  "name": "critique-loop",
+  "description": "Critiques and fixes a deliverable in an autonomous loop with de Bono's thinking hats, 10 iterations by default, with an early stop.",
+  "version": "0.1.0",
+  "author": { "name": "baov" },
+  "repository": "https://github.com/baov/skills",
+  "license": "MIT"
+}
